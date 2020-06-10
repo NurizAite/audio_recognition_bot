@@ -1,6 +1,6 @@
 ## Content
 * [About audio recognition bot](#basics)
-* [How to start](#purpose)
+* [How to start chatting?](#purpose)
 * [Collect your dataset](#assign)
 * [Machine learning](#ml)
 * [How to run program?](#run)
@@ -15,7 +15,7 @@ This bot :
 <li> Translate source code into some efficient intermediate representation and immediately execute this;
 <li> Explicitly execute stored precompiled code made by a compiler which is part of the interpreter system.
 
-#  <a name="purpose"></a> How to start
+#  <a name="purpose"></a> How to start chatting?
 
 You can launch bot with a command /start and bot will send you a message in which ask you to send a voice message.
 It will answer with 5 numbers if your message is valide and send a message about error otherwise.
